@@ -1,0 +1,45 @@
+
+h1,a{
+  color:white;
+}
+
+h1::first-letter{
+  font-size:2em;
+}
+
+*{
+  color:white;
+}
+
+main{
+  font-family:serif;
+  text-align:justify;
+  /*width:75%;*/
+  margin:auto;
+  line-height:35px;
+}
+
+nav a:hover{
+  background-color: rgb(128, 222, 253);
+  color: rgb(5, 5, 5);
+
+}
+nav a:active{
+  background-color: rgb(128, 222, 253);
+  color: rgb(5, 5, 5);
+}
+
+nav a{
+  text-decoration: none;
+  margin:20px;
+}
+
+a[target="blank"]{
+  color:blue;
+  background-color: white;
+}
+ 
+ 
+ 
+ 
+
